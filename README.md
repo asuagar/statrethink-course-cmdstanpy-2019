@@ -1,4 +1,4 @@
-# Statistical Rethinking: A Bayesian Course Using Python, Stan and Plotnine
+# Statistical Rethinking: A Bayesian Course Using Python, CmdStanPy and Plotnine
 
 ## Intro
 
